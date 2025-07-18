@@ -5,5 +5,5 @@ def CheckAnagrams(str1, str2):
     
     # Sort the characters of both strings and compare
     return sorted(str1) == sorted(str2)
-print(CheckAnagrams("listen", "silent"))  # Should return True
-print(CheckAnagrams("hello", "world"))    # Should return False
+print(CheckAnagrams("listen", "silent"))  
+print(CheckAnagrams("hello", "world"))    
