@@ -1,4 +1,4 @@
-import random
+
 
 def Myfuction():
     word_list = ["apple", "banana", "cherry", "date", "fig"]
