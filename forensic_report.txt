@@ -1,0 +1,346 @@
+FORENSIC REPORT
+========================
+Date: 2025-07-24 15:03:51.260821
+Investigator: Investigator_1
+
+TOOLS USED:
+- pywin32 (Windows Event Log Parser)
+
+EVIDENCE COLLECTED:
+Thu Jul 24 15:03:06 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation ended. Forensic analysis can now be performed.
+
+Thu Jul 24 15:03:06 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: HarmlessMalwareSim crashed: division by zero
+
+Thu Jul 24 15:03:06 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated scan found 4 suspicious files.
+
+Thu Jul 24 15:02:33 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated collection of user info: username = PC
+
+Thu Jul 24 15:02:33 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation started. Malware-like behavior emulation beginning.
+
+Thu Jul 24 13:47:16 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation ended. Forensic analysis can now be performed.
+
+Thu Jul 24 13:47:16 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: HarmlessMalwareSim crashed: division by zero
+
+Thu Jul 24 13:47:16 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated scan found 4 suspicious files.
+
+Thu Jul 24 13:46:40 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated collection of user info: username = PC
+
+Thu Jul 24 13:46:40 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation started. Malware-like behavior emulation beginning.
+
+Thu Jul 24 09:50:51 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation ended. Forensic analysis can now be performed.
+
+Thu Jul 24 09:50:51 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: HarmlessMalwareSim crashed: division by zero
+
+Thu Jul 24 09:50:51 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated scan found 4 suspicious files.
+
+Thu Jul 24 09:50:44 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated collection of user info: username = PC
+
+Thu Jul 24 09:50:44 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation started. Malware-like behavior emulation beginning.
+
+Thu Jul 24 09:45:26 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation ended. Forensic analysis can now be performed.
+
+Thu Jul 24 09:45:26 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: HarmlessMalwareSim crashed: division by zero
+
+Thu Jul 24 09:45:26 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated scan found 4 suspicious files.
+
+Thu Jul 24 09:45:21 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated collection of user info: username = PC
+
+Thu Jul 24 09:45:21 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation started. Malware-like behavior emulation beginning.
+
+Thu Jul 24 09:34:45 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation ended. Forensic analysis can now be performed.
+
+Thu Jul 24 09:34:45 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: HarmlessMalwareSim crashed: division by zero
+
+Thu Jul 24 09:34:45 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated scan found 4 suspicious files.
+
+Thu Jul 24 09:34:11 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulated collection of user info: username = PC
+
+Thu Jul 24 09:34:11 2025 - EventID: 1337 - Source: HarmlessMalwareSim
+Description: Simulation started. Malware-like behavior emulation beginning.
+
+Thu Jul 24 09:19:41 2025 - EventID: -2147483392 - Source: Edge
+Description: [7480:15164:0724/091941.467:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Wed Jul 23 22:03:32 2025 - EventID: -2147483392 - Source: Edge
+Description: [2804:13008:0723/220332.068:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Wed Jul 23 22:02:39 2025 - EventID: -2147483392 - Source: Chrome
+Description: [3436:16060:0723/220239.734:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 22 20:25:17 2025 - EventID: -2147483392 - Source: Chrome
+Description: [15356:10100:0722/202517.586:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 22 20:20:23 2025 - EventID: -2147483392 - Source: Edge
+Description: [12084:6404:0722/202023.525:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 22 20:18:22 2025 - EventID: -2147483392 - Source: Edge
+Description: [7764:12112:0722/201822.950:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 22 20:00:46 2025 - EventID: -2147483392 - Source: Chrome
+Description: [15188:16120:0722/200046.727:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 22 17:48:36 2025 - EventID: -2147483392 - Source: Edge
+Description: [7976:4316:0722/174836.524:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 22 17:46:36 2025 - EventID: -2147483392 - Source: Edge
+Description: [6780:17700:0722/174635.995:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Mon Jul 21 11:02:11 2025 - EventID: -2147483392 - Source: Edge
+Description: [844:18072:0721/110211.777:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Mon Jul 21 11:00:17 2025 - EventID: -2147483392 - Source: Chrome
+Description: [18856:14800:0721/110017.499:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Mon Jul 21 11:00:09 2025 - EventID: -2147483392 - Source: Edge
+Description: [15960:8444:0721/110009.014:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Mon Jul 21 01:24:40 2025 - EventID: -2147483392 - Source: Chrome
+Description: [16252:1504:0721/012440.804:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 20 15:07:35 2025 - EventID: -2147483392 - Source: Edge
+Description: [13852:940:0720/150735.459:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 20 15:06:22 2025 - EventID: -2147483392 - Source: Chrome
+Description: [5268:11152:0720/150622.489:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 20 15:05:25 2025 - EventID: -2147483392 - Source: Edge
+Description: [11620:844:0720/150525.484:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 20 10:50:47 2025 - EventID: -2147483392 - Source: Edge
+Description: [11136:5528:0720/105047.389:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 20 10:48:45 2025 - EventID: -2147483392 - Source: Edge
+Description: [6440:11704:0720/104845.539:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 20 10:48:18 2025 - EventID: -2147483392 - Source: Chrome
+Description: [14928:11548:0720/104818.773:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 16:05:31 2025 - EventID: -2147483392 - Source: Edge
+Description: [9904:2436:0719/160531.245:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 16:03:30 2025 - EventID: -2147483392 - Source: Edge
+Description: [8552:12144:0719/160330.249:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 16:02:25 2025 - EventID: -2147483392 - Source: Chrome
+Description: [10868:11168:0719/160225.141:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 12:05:47 2025 - EventID: -2147483392 - Source: Edge
+Description: [12360:3704:0719/120547.820:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 12:03:47 2025 - EventID: -2147483392 - Source: Edge
+Description: [9828:8800:0719/120347.192:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 12:03:01 2025 - EventID: -2147483392 - Source: Chrome
+Description: [11912:12084:0719/120301.714:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 11:30:08 2025 - EventID: -2147483392 - Source: Edge
+Description: [9772:9596:0719/113008.242:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 11:28:21 2025 - EventID: -2147483392 - Source: Chrome
+Description: [11880:13828:0719/112821.639:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 11:28:07 2025 - EventID: -2147483392 - Source: Edge
+Description: [1740:880:0719/112807.373:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 01:32:10 2025 - EventID: -2147483392 - Source: Edge
+Description: [16936:17036:0719/013210.266:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 01:30:09 2025 - EventID: -2147483392 - Source: Edge
+Description: [14444:7652:0719/013009.706:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 19 01:27:10 2025 - EventID: -2147483392 - Source: Chrome
+Description: [4828:11876:0719/012710.100:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 18 19:30:02 2025 - EventID: -2147483392 - Source: Edge
+Description: [11612:11240:0718/193002.329:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 18 19:28:08 2025 - EventID: -2147483392 - Source: Chrome
+Description: [4848:13752:0718/192808.378:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 18 19:28:01 2025 - EventID: -2147483392 - Source: Edge
+Description: [14196:17604:0718/192801.709:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 18 12:08:38 2025 - EventID: -2147483392 - Source: Edge
+Description: [564:6512:0718/120838.191:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 18 11:08:36 2025 - EventID: -2147483392 - Source: Edge
+Description: [17764:13284:0718/110836.783:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 18 11:07:17 2025 - EventID: -2147483392 - Source: Chrome
+Description: [3200:16468:0718/110717.469:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 18 11:06:35 2025 - EventID: -2147483392 - Source: Edge
+Description: [13652:4108:0718/110635.769:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Thu Jul 17 23:39:12 2025 - EventID: -2147483392 - Source: Edge
+Description: [10892:16000:0717/233912.073:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Thu Jul 17 15:15:23 2025 - EventID: -2147483392 - Source: Chrome
+Description: [5396:9716:0717/151523.556:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Thu Jul 17 09:27:30 2025 - EventID: -2147483392 - Source: Chrome
+Description: [1820:3792:0717/092730.107:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Thu Jul 17 08:37:36 2025 - EventID: -2147483392 - Source: Chrome
+Description: [3032:7020:0717/083736.360:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Wed Jul 16 11:22:14 2025 - EventID: -2147483392 - Source: Chrome
+Description: [11976:12204:0716/112214.145:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 15 20:01:35 2025 - EventID: -2147483392 - Source: Chrome
+Description: [13552:15096:0715/200135.323:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 15 15:57:28 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Tue Jul 15 15:52:55 2025 - EventID: -2147483392 - Source: Chrome
+Description: [4816:14840:0715/155255.218:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 15 13:49:44 2025 - EventID: -2147483392 - Source: Chrome
+Description: [5204:10840:0715/134944.676:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Tue Jul 15 13:01:25 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Mon Jul 14 23:46:28 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Mon Jul 14 23:44:02 2025 - EventID: -2147483392 - Source: Chrome
+Description: [7692:13436:0714/234402.259:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Mon Jul 14 17:30:49 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Mon Jul 14 17:25:28 2025 - EventID: -2147483392 - Source: Chrome
+Description: [5612:11296:0714/172528.536:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Mon Jul 14 12:53:36 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Mon Jul 14 12:48:21 2025 - EventID: -2147483392 - Source: Chrome
+Description: [2904:5700:0714/124821.514:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Mon Jul 14 11:49:48 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Mon Jul 14 11:48:54 2025 - EventID: -2147483392 - Source: Chrome
+Description: [4596:8552:0714/114854.039:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 13 23:56:14 2025 - EventID: -2147483392 - Source: Chrome
+Description: [2764:12992:0713/235614.072:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 13 23:54:52 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Sun Jul 13 14:11:41 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Sun Jul 13 14:06:48 2025 - EventID: -2147483392 - Source: Chrome
+Description: [7952:10960:0713/140648.283:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 13 10:56:53 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Sun Jul 13 10:51:31 2025 - EventID: -2147483392 - Source: Chrome
+Description: [4224:1196:0713/105131.213:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 13 10:18:39 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Sun Jul 13 10:14:14 2025 - EventID: -2147483392 - Source: Chrome
+Description: [12600:5920:0713/101414.184:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 13 09:56:58 2025 - EventID: -2147483392 - Source: Chrome
+Description: [4008:10844:0713/095658.636:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sun Jul 13 09:47:49 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Sat Jul 12 17:03:38 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Sat Jul 12 16:58:12 2025 - EventID: -2147483392 - Source: Chrome
+Description: [10660:10972:0712/165812.225:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 12 12:33:54 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Sat Jul 12 12:32:41 2025 - EventID: -2147483392 - Source: Chrome
+Description: [18488:6152:0712/123241.165:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 12 02:41:02 2025 - EventID: -2147483392 - Source: Chrome
+Description: [12088:13300:0712/024102.658:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Sat Jul 12 02:35:04 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Fri Jul 11 13:48:47 2025 - EventID: -2147483392 - Source: Chrome
+Description: [9612:12988:0711/134847.547:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 11 13:20:50 2025 - EventID: -2147483392 - Source: Chrome
+Description: [7516:5052:0711/132050.837:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Fri Jul 11 13:18:24 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Fri Jul 11 00:17:01 2025 - EventID: -2147483392 - Source: Chrome
+Description: [16304:13732:0711/001701.624:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Thu Jul 10 13:06:36 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Thu Jul 10 08:47:12 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Thu Jul 10 08:42:54 2025 - EventID: -2147483392 - Source: Chrome
+Description: [5760:13672:0710/084254.804:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Wed Jul  9 22:17:44 2025 - EventID: -2147483392 - Source: Chrome
+Description: [4784:10100:0709/221744.817:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Wed Jul  9 20:35:52 2025 - EventID: -2147483392 - Source: Chrome
+Description: [3996:11464:0709/203552.331:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Wed Jul  9 20:25:15 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Wed Jul  9 18:00:14 2025 - EventID: -2147483392 - Source: Chrome
+Description: [9836:8940:0709/180014.268:INFO:chrome\browser\extensions\extension_garbage_collector.cc:184] Garbage collection for extensions on file thread is complete.
+
+Wed Jul  9 17:40:11 2025 - EventID: -2147024846 - Source: Windows App Runtime
+Description: Windows App Runtime ERROR 0x80070032: Bootstrapper initialization failed while looking for version 1.7 (MSIX package version >= 7000.498.2246.0)
+
+Wed Jul  9 17:13:32 2025 - EventID: -2147483392 - Source: Chrome
+Description: [8816:9064:0709/171332.675:INFO:extension_garbage_collector.cc(183)] Garbage collection for extensions on file thread is complete.
+
+Wed Jul  9 14:51:02 2025 - EventID: -2147483392 - Source: Chrome
+Description: [10260:11060:0709/145102.415:INFO:extension_garbage_collector.cc(183)] Garbage collection for extensions on file thread is complete.
+
+CHAIN OF CUSTODY:
+2025-07-24 15:03:50 - Started forensic investigation by Investigator_1
+2025-07-24 15:03:50 - Started parsing Windows event logs by Investigator_1
+2025-07-24 15:03:51 - Finished parsing logs and collected suspicious entries by Investigator_1
